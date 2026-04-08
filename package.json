@@ -16,6 +16,7 @@
     "express": "^5.2.1",
     "mongoose": "^9.3.3",
     "nanoid": "^5.1.7",
-    "nodemon": "^3.1.14"
+    "nodemon": "^3.1.14",
+    "redis": "^5.11.0"
   }
 }
